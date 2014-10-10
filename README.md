@@ -5,20 +5,20 @@
 
 ## Instaration
 
-1. Install gulp to global
-```sh
-npm install gulp -g
-```
+1. Install GraphicsMagick
+  ```sh
+  brew install graphicsmagick
+  ```
 
-2. Install GraphicsMagick
-```sh
-brew install graphicsmagick
-```
+2. Install gulp to global
+  ```sh
+  npm install gulp -g
+  ```
 
 3. Install npm modules
-```
-npm install
-```
+  ```
+  npm install
+  ```
 
 ## gulp commands
 
